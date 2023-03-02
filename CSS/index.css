@@ -43,4 +43,5 @@ body{
 .btn input[type='button']{
     width: 90px;
     padding: 2px;
+    margin: 2px 0px;
 }
