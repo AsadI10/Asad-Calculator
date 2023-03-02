@@ -6,6 +6,7 @@
 h1{
     margin-top: -75px;
     cursor: pointer;
+    background-color: aliceblue;
 }
 h1:hover{
     background-color: aqua;
