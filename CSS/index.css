@@ -35,4 +35,8 @@ body{
     outline: none;
     font-size: 40px;
     border: 5px solid black;
+    display: flex;
+    margin: auto;
+    border-radius: 6px;
+    color: black;
 }
